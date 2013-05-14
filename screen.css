@@ -1,0 +1,28 @@
+/* Field Gray CSS */
+
+body {
+    background: #999999;
+}
+
+div#mw-head {
+    background: #999999;
+}
+
+div#content {
+    background: #BBBBBB;
+    border: 1px solid #333333;
+}
+
+#ca-view span a, #ca-nstab-main span a, li.new a, #tab-main span a, a-talk span a, #ca-edit span a, li.collapsible span a, li.icon span a {
+    background-color: #AAAAAA;
+    border-top: 1px solid #333333;
+    border-left: 1px solid #333333;
+    border-right: 1px solid #333333;
+}
+
+li.selected span a {
+    background-color: #BBBBBB !important;
+    border-top: 1px solid #333333;
+    border-left: 1px solid #333333;
+    border-right: 1px solid #333333;
+}
